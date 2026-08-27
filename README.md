@@ -41,7 +41,11 @@
 <a href="https://ytnwjd.tistory.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=tistory&logoColor=white"/></a>
 <a href="mailto:ysj120808@gmail.com"><img src="https://img.shields.io/badge/Mail-4285F4?style=flat&logo=gmail&logoColor=white"/></a>
 
-</div>
+<br/>
+
+### 📝 Latest Blog Posts 📝
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <br/>
 
@@ -63,3 +67,7 @@
 </td>
 </tr>
 </table>
+
+
+
+</div>
