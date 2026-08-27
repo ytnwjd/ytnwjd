@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=FBE4CB&height=200&section=header&text=Sujeong's%20Github!&fontSize=60&fontColor=2D2A26&fontAlignY=45" width="100%"/>
-</div>
-<br/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Sujeong's%20Github!&fontSize=50&animation=twinkling" width="100%"/> </div> 
+
 <div align="center">
 
 ### 🌿 Tech Stack 🌿
@@ -37,13 +35,6 @@
 <a href="mailto:ysj120808@gmail.com"><img src="https://img.shields.io/badge/Mail-4285F4?style=flat&logo=gmail&logoColor=white"/></a>
 
 </div>
-<br/>
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=ytnwjd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="400"/>
-
-</div>
-<br/>
 
 ### 📝 Latest 3 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
@@ -53,10 +44,20 @@
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
+<br/>
+<div align="center">
+  
+### 🍀 Github Stats 🍀
+  
+<img src="https://github-stats-extended.vercel.app/api?username=ytnwjd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" width="400"/>
+
+</div>
+<br/>
+
 <div align="center">
 
 ### 🧱 Contribution Graph 🧱
 
-<img src="./profile-3d-contrib/profile-gitblock.svg" width="800"/>
+<img src="./profile-3d-contrib/profile-night-green.svg" width="800"/>
 
 </div>
