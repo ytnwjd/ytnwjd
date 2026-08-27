@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://api.allorigins.win/raw?url=https%3A%2F%2Fytnwjd.tistory.com%2Frss"
+          feed_list: "https://api.codetabs.com/v1/proxy?quest=https://ytnwjd.tistory.com/rss"
           max_post_count: 3
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
           accept_header: "application/rss+xml, application/xml, text/xml, */*"
