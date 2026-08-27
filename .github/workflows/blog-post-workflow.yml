@@ -1,18 +1,26 @@
 name: Latest blog post workflow
 on:
   schedule:
-    # 매 시간 정각에 자동으로 실행하여 최신 블로그 포스트를 갱신
     - cron: '0 * * * *'
-  workflow_dispatch: # 수동 실행 가능
+  workflow_dispatch:
+permissions:
+  contents: write
 jobs:
   update-readme-with-blog:
-    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: gautamkrishnar/blog-post-workflow@v1
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
         with:
-          feed_list: "https://api.codetabs.com/v1/proxy?quest=https://ytnwjd.tistory.com/rss"
-          max_post_count: 3
-          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-          accept_header: "application/rss+xml, application/xml, text/xml, */*"
+          node-version: '20'
+      - name: Install dependencies
+        run: npm install rss-parser
+      - name: Update README with blog posts
+        run: node update-readme.js
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --staged --quiet || git commit -m "docs: update latest blog posts"
+          git push
