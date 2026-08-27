@@ -4,7 +4,6 @@ on:
     # 매 시간 정각에 자동으로 실행하여 최신 블로그 포스트를 갱신
     - cron: '0 * * * *'
   workflow_dispatch: # 수동 실행 가능
-
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
@@ -13,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://ytnwjd.tistory.com/rss"
+          feed_list: "https://api.allorigins.win/raw?url=https%3A%2F%2Fytnwjd.tistory.com%2Frss"
           max_post_count: 3
           user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
           accept_header: "application/rss+xml, application/xml, text/xml, */*"
