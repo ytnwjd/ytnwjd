@@ -1,9 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=FBE4CB&height=200&section=header&text=Sujeong's%20Github!&fontSize=60&fontColor=2D2A26&fontAlignY=45" width="100%"/>
 </div>
-
 <br/>
-
 <div align="center">
 
 ### 🌿 Tech Stack 🌿
@@ -39,25 +37,18 @@
 <a href="mailto:ysj120808@gmail.com"><img src="https://img.shields.io/badge/Mail-4285F4?style=flat&logo=gmail&logoColor=white"/></a>
 
 </div>
+<br/>
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ytnwjd&layout=normal&langs_count=6&hide_border=true" width="300"/>
 
 <br/>
 
-### 📝 Latest Blog Posts 📝
+<img src="https://github-stats-extended.vercel.app/api?username=ytnwjd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="400"/>
+
+</div>
+<br/>
+
+### 📝 Latest 3 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [[DS] 자료구조 총정리](https://ytnwjd.tistory.com/entry/DS-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%B4%9D%EC%A0%95%EB%A6%AC)
-- [[회고] 6개월간의 인턴십, 끝나면 뭐가 남을까?](https://ytnwjd.tistory.com/entry/%ED%9A%8C%EA%B3%A0-6%EA%B0%9C%EC%9B%94%EA%B0%84%EC%9D%98-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EB%81%9D%EB%82%98%EB%A9%B4-%EB%AD%90%EA%B0%80-%EB%82%A8%EC%9D%84%EA%B9%8C)
-- [[DB] 아직도 새 프로젝트 할 때 아무 생각 없이 MySQL부터 켜시나요?](https://ytnwjd.tistory.com/entry/DB-%EC%95%84%EC%A7%81%EB%8F%84-%EC%83%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%A0-%EB%95%8C-%EC%95%84%EB%AC%B4-%EC%83%9D%EA%B0%81-%EC%97%86%EC%9D%B4-MySQL%EB%B6%80%ED%84%B0-%EC%BC%9C%EC%8B%9C%EB%82%98%EC%9A%94)
 <!-- BLOG-POST-LIST:END -->
-
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" valign="middle">
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ytnwjd&layout=normal&langs_count=6&hide_border=true" width="360"/>
-</td>
-<td align="center" valign="middle">
-<img src="https://github-stats-extended.vercel.app/api?username=ytnwjd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="420"/>
-</td>
-</tr>
-</table>
