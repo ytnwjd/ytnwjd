@@ -40,10 +40,6 @@
 <br/>
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ytnwjd&layout=normal&langs_count=6&hide_border=true" width="300"/>
-
-<br/>
-
 <img src="https://github-stats-extended.vercel.app/api?username=ytnwjd&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="400"/>
 
 </div>
@@ -55,3 +51,12 @@
 - [[회고] 6개월간의 인턴십, 끝나면 뭐가 남을까?](https://ytnwjd.tistory.com/entry/%ED%9A%8C%EA%B3%A0-6%EA%B0%9C%EC%9B%94%EA%B0%84%EC%9D%98-%EC%9D%B8%ED%84%B4%EC%8B%AD-%EB%81%9D%EB%82%98%EB%A9%B4-%EB%AD%90%EA%B0%80-%EB%82%A8%EC%9D%84%EA%B9%8C)
 - [[DB] 아직도 새 프로젝트 할 때 아무 생각 없이 MySQL부터 켜시나요?](https://ytnwjd.tistory.com/entry/DB-%EC%95%84%EC%A7%81%EB%8F%84-%EC%83%88-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%A0-%EB%95%8C-%EC%95%84%EB%AC%B4-%EC%83%9D%EA%B0%81-%EC%97%86%EC%9D%B4-MySQL%EB%B6%80%ED%84%B0-%EC%BC%9C%EC%8B%9C%EB%82%98%EC%9A%94)
 <!-- BLOG-POST-LIST:END -->
+<br/>
+
+<div align="center">
+
+### 🧱 Contribution Graph 🧱
+
+<img src="./profile-3d-contrib/profile-gitblock.svg" width="800"/>
+
+</div>
