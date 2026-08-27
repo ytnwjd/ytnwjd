@@ -1,0 +1,17 @@
+name: Latest blog post workflow
+on:
+  schedule:
+    # 매 시간 정각에 자동으로 실행하여 최신 블로그 포스트를 갱신
+    - cron: '0 * * * *'
+  workflow_dispatch: # 수동 실행 가능
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://ytnwjd.tistory.com/rss"
+          max_post_count: 5
