@@ -38,9 +38,9 @@
 
 ### 📝 Latest 3 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [[CS] Memory - RAM, Cache Memory](https://ytnwjd.tistory.com/entry/CS-Memory-RAM-Cache-Memory)
-- [[CS] CPU - Register, Interrupt, Clock/Core](https://ytnwjd.tistory.com/entry/CS-CPU-Register-Interrupt-ClockCore)
-- [[CS] Computer Structure 기초](https://ytnwjd.tistory.com/entry/CS-Computer-Structure-%EA%B8%B0%EC%B4%88)
+- [[OS] Mutex, Semaphore, Deadlock](https://ytnwjd.tistory.com/entry/OS-Mutex-Semaphore-Deadlock)
+- [[OS] Process와 Thread](https://ytnwjd.tistory.com/entry/OS-Process%EC%99%80-Thread)
+- [[OS] 운영체제 개요 - 역할, System Call](https://ytnwjd.tistory.com/entry/OS-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C-%EA%B0%9C%EC%9A%94-%EC%97%AD%ED%95%A0-System-Call)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
