@@ -38,9 +38,9 @@
 
 ### 📝 Latest 3 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [[OS] Virtual Memory](https://ytnwjd.tistory.com/entry/OS-Virtual-Memory)
 - [[OS] CPU Scheduling](https://ytnwjd.tistory.com/entry/OS-CPU-Scheduling)
 - [[OS] 동기화, Deadlock](https://ytnwjd.tistory.com/entry/OS-%EB%8F%99%EA%B8%B0%ED%99%94-Deadlock)
-- [[OS] Mutex, Semaphore, Deadlock](https://ytnwjd.tistory.com/entry/OS-Mutex-Semaphore-Deadlock)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
