@@ -38,9 +38,9 @@
 
 ### 📝 Latest 3 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [[OS] Blocking과 Non-Blocking, Sync와 Async](https://ytnwjd.tistory.com/entry/OS-Blocking%EA%B3%BC-Non-Blocking-Sync%EC%99%80-Async)
 - [[OS] Virtual Memory](https://ytnwjd.tistory.com/entry/OS-Virtual-Memory)
 - [[OS] CPU Scheduling](https://ytnwjd.tistory.com/entry/OS-CPU-Scheduling)
-- [[OS] 동기화, Deadlock](https://ytnwjd.tistory.com/entry/OS-%EB%8F%99%EA%B8%B0%ED%99%94-Deadlock)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
