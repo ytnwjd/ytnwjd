@@ -38,9 +38,9 @@
 
 ### 📝 Latest 3 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
-- [[OS] Blocking과 Non-Blocking, Sync와 Async](https://ytnwjd.tistory.com/entry/OS-Blocking%EA%B3%BC-Non-Blocking-Sync%EC%99%80-Async)
-- [[OS] Virtual Memory](https://ytnwjd.tistory.com/entry/OS-Virtual-Memory)
-- [[OS] CPU Scheduling](https://ytnwjd.tistory.com/entry/OS-CPU-Scheduling)
+- [[Network] Network 계층과 TCP/UDP](https://ytnwjd.tistory.com/entry/Network-Network-%EA%B3%84%EC%B8%B5%EA%B3%BC-TCPUDp)
+- [[Network] 네크워크 계층과 IP](https://ytnwjd.tistory.com/entry/Network-%EB%84%A4%ED%81%AC%EC%9B%8C%ED%81%AC-%EA%B3%84%EC%B8%B5%EA%B3%BC-IP)
+- [[Network] 네트워크의 구조, 물리 계층과 데이터 링크 계층](https://ytnwjd.tistory.com/entry/Network-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98-%EA%B5%AC%EC%A1%B0-%EB%AC%BC%EB%A6%AC-%EA%B3%84%EC%B8%B5%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%81%ED%81%AC-%EA%B3%84%EC%B8%B5)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
