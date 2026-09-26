@@ -38,9 +38,9 @@
 
 ### 📝 Latest 3 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [[Network] 안정적인 서버 운영을 위해 꼭 알아야 할 요소](https://ytnwjd.tistory.com/entry/Network-%EC%95%88%EC%A0%95%EC%A0%81%EC%9D%B8-%EC%84%9C%EB%B2%84-%EC%9A%B4%EC%98%81%EC%9D%84-%EC%9C%84%ED%95%B4-%EA%BC%AD-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EC%9A%94%EC%86%8C)
 - [[Network] Application 계층과 HTTP (2)](https://ytnwjd.tistory.com/entry/Network-Application-%EA%B3%84%EC%B8%B5%EA%B3%BC-HTTP-2)
 - [[Network] Application 계층과 HTTP (1)](https://ytnwjd.tistory.com/entry/Network-Application-%EA%B3%84%EC%B8%B5%EA%B3%BC-HTTP)
-- [[Network] Transport 계층과 TCP/UDP](https://ytnwjd.tistory.com/entry/Network-Network-%EA%B3%84%EC%B8%B5%EA%B3%BC-TCPUDp)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
