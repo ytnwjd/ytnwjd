@@ -38,9 +38,9 @@
 
 ### 📝 Latest 3 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [[OS][DB] 버그가 있는데 터지지 않았다? 코드에서 찾은 Race Condition](https://ytnwjd.tistory.com/entry/OSDB-%EB%B2%84%EA%B7%B8%EA%B0%80-%EC%9E%88%EB%8A%94%EB%8D%B0-%ED%84%B0%EC%A7%80%EC%A7%80-%EC%95%8A%EC%95%98%EB%8B%A4-%EC%BD%94%EB%93%9C%EC%97%90%EC%84%9C-%EC%B0%BE%EC%9D%80-Race-Condition)
 - [[DB] NoSQL](https://ytnwjd.tistory.com/entry/DB-NoSQL)
 - [[DB] Subquery, Join, Normalization](https://ytnwjd.tistory.com/entry/DB-Subquery-Join-Normalization)
-- [[DB] SQL - DDL, DML, TCL, DCL](https://ytnwjd.tistory.com/entry/DB-SQL-DDL-DML-TCL-DCL)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
