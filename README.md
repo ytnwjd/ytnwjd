@@ -38,9 +38,9 @@
 
 ### 📝 Latest 3 Blog Posts 📝
 <!-- BLOG-POST-LIST:START -->
+- [[Network] JWT를 쓰면 로그아웃이 안 된다고?](https://ytnwjd.tistory.com/entry/Network-JWT%EB%A5%BC-%EC%93%B0%EB%A9%B4-%EB%A1%9C%EA%B7%B8%EC%95%84%EC%9B%83%EC%9D%B4-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0)
 - [[Infra] Kafka는 메시지를 디스크에 저장하는데 왜 빠를까?](https://ytnwjd.tistory.com/entry/Infra-Kafka%EB%8A%94-%EB%A9%94%EC%8B%9C%EC%A7%80%EB%A5%BC-%EB%94%94%EC%8A%A4%ED%81%AC%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94%EB%8D%B0-%EC%99%9C-%EB%B9%A0%EB%A5%BC%EA%B9%8C)
 - [[Network][OS] 컨테이너는 가벼운 VM이 아니다](https://ytnwjd.tistory.com/entry/NetworkOS-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EB%8A%94-%EA%B0%80%EB%B2%BC%EC%9A%B4-VM%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4)
-- [[OS][DB] Python lock, WAL, busy_timeout은 무엇을 막을까?](https://ytnwjd.tistory.com/entry/OSDB-Python-lock-WAL-busytimeout%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%84-%EB%A7%89%EC%9D%84%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
 <br/>
 
